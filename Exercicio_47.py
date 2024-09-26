@@ -1,0 +1,1 @@
+#Faça um programa que calcule a soma entre todos os números impares que sao múltiplos de 3 e que se encontrarem no intervalo de 1 até 500

@@ -1,0 +1,1 @@
+#Refaça o exercício 9, mostrando a tabuada de um número que o usuário escolher, so que agora utilizando um laço for.

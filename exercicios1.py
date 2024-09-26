@@ -68,7 +68,10 @@
 # # print(f'A temperatura convertida pra °F é {f}')
 
 #aluguel carro
-carro = int(input('Por quantos dias o carro foi alugado?: '))
-km = float(input('Qual foi a quilometragem percorrida?: '))
-valor = (carro * 60) + (km * 0.15)
-print(f'O valor total do aluguel é de : R${valor :.2f}')
+# carro = int(input('Por quantos dias o carro foi alugado?: '))
+# km = float(input('Qual foi a quilometragem percorrida?: '))
+# valor = (carro * 60) + (km * 0.15)
+# print(f'O valor total do aluguel é de : R${valor :.2f}')
+
+a = 4**2
+print(f'{a}')
