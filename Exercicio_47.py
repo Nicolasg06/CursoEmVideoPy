@@ -1,1 +1,4 @@
-#Faça um programa que calcule a soma entre todos os números impares que sao múltiplos de 3 e que se encontrarem no intervalo de 1 até 500
+#Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+
+for c in range(2,50,2):
+    print(c, end=' ')

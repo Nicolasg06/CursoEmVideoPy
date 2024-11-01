@@ -5,42 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00ec0fc8-4176-40b2-9b71-45f68dd56a95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Nicolas.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_54.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicio_56.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exrcicio_30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo2_Aula1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/nicol.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_73.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_82.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicio_86.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercico_48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CursoEmVideoPy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoEmVideoPy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_46.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_46.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_47.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_47.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_49.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_49.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_50.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_50.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_51.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_51.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_52.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_52.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_53.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_53.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_54.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_54.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_55.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_55.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_56.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio_56.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,51 +87,97 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Aula_13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_28.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_32.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_33.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_36.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_37.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_38.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_39.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_40.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_41.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_42.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_43.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_44.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exercicio_45.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exrcicio_30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Mundo2_Aula1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicios1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Documents/CursoEmVideoPy/Aula_2.py&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula_13.executor": "Run",
+    "Python.Aula_2.executor": "Run",
+    "Python.Aula_3.executor": "Run",
+    "Python.Aula_4.executor": "Run",
+    "Python.Exercicio_28.executor": "Run",
+    "Python.Exercicio_29.executor": "Run",
+    "Python.Exercicio_31.executor": "Run",
+    "Python.Exercicio_32.executor": "Run",
+    "Python.Exercicio_33.executor": "Run",
+    "Python.Exercicio_34.executor": "Run",
+    "Python.Exercicio_35.executor": "Run",
+    "Python.Exercicio_36.executor": "Run",
+    "Python.Exercicio_37.executor": "Run",
+    "Python.Exercicio_38.executor": "Run",
+    "Python.Exercicio_39.executor": "Run",
+    "Python.Exercicio_40.executor": "Run",
+    "Python.Exercicio_41.executor": "Run",
+    "Python.Exercicio_42.executor": "Run",
+    "Python.Exercicio_43.executor": "Run",
+    "Python.Exercicio_44.executor": "Run",
+    "Python.Exercicio_45.executor": "Run",
+    "Python.Exercicio_46.executor": "Run",
+    "Python.Exercicio_47.executor": "Run",
+    "Python.Exercicio_49.executor": "Run",
+    "Python.Exercicio_50.executor": "Run",
+    "Python.Exercicio_51.executor": "Run",
+    "Python.Exercicio_52.executor": "Run",
+    "Python.Exercicio_53.executor": "Run",
+    "Python.Exercicio_54.executor": "Run",
+    "Python.Exercicio_55.executor": "Run",
+    "Python.Exercicio_56.executor": "Run",
+    "Python.Exercicio_57.executor": "Run",
+    "Python.Exercicio_58.executor": "Run",
+    "Python.Exercicio_59.executor": "Run",
+    "Python.Exercicio_60.executor": "Run",
+    "Python.Exercicio_61.executor": "Run",
+    "Python.Exercicio_62.executor": "Run",
+    "Python.Exercicio_63.executor": "Run",
+    "Python.Exercicio_64.executor": "Run",
+    "Python.Exercicio_65.executor": "Run",
+    "Python.Exercicio_66 (1).executor": "Run",
+    "Python.Exercicio_67.executor": "Run",
+    "Python.Exercicio_68.executor": "Run",
+    "Python.Exercicio_69.executor": "Run",
+    "Python.Exercicio_70.executor": "Run",
+    "Python.Exercicio_71.executor": "Run",
+    "Python.Exercicio_72.executor": "Run",
+    "Python.Exercicio_73.executor": "Run",
+    "Python.Exercicio_74.executor": "Run",
+    "Python.Exercicio_75.executor": "Run",
+    "Python.Exercicio_76.executor": "Run",
+    "Python.Exercicio_77.executor": "Run",
+    "Python.Exercicio_78.executor": "Run",
+    "Python.Exercicio_79.executor": "Run",
+    "Python.Exercicio_80.executor": "Run",
+    "Python.Exercicio_81.executor": "Run",
+    "Python.Exercicio_82.executor": "Run",
+    "Python.Exercicio_83.executor": "Run",
+    "Python.Exercicio_84.executor": "Run",
+    "Python.Exercicio_85.executor": "Run",
+    "Python.Exercicio_86.executor": "Run",
+    "Python.Exercico_48.executor": "Run",
+    "Python.Exrcicio_30.executor": "Run",
+    "Python.Mundo2_Aula1.executor": "Run",
+    "Python.Mundo3.executor": "Run",
+    "Python.TEste.executor": "Run",
+    "Python.Testes.executor": "Run",
+    "Python.ValidadorCPF.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.exercicios1.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/nicol/Documents/GitHub/CursoEmVideoPy",
+    "settings.editor.selected.configurable": "advanced.settings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;Python&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.Aula_13">
-    <configuration name="Aula_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Exercicio_86">
+    <configuration name="Exercicio_83" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +190,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_83.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +199,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_84" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +212,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_42.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_84.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_43" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_85" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +234,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_43.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_85.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercicio_86" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,7 +256,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_44.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_86.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercicio_45" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TEste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoPy" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,7 +278,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicio_45.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TEste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,18 +311,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula_13" />
-        <item itemvalue="Python.Exercicio_45" />
-        <item itemvalue="Python.Exercicio_44" />
-        <item itemvalue="Python.Exercicio_43" />
-        <item itemvalue="Python.Exercicio_42" />
+        <item itemvalue="Python.Exercicio_86" />
+        <item itemvalue="Python.Exercicio_85" />
+        <item itemvalue="Python.Exercicio_84" />
+        <item itemvalue="Python.TEste" />
+        <item itemvalue="Python.Exercicio_83" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
       </set>
     </attachedChunks>
   </component>
